@@ -8,7 +8,8 @@ Then run the below command in sequence.
 3. npm start                   // run REACT 
 3. npm run server              // run NODE 
 
- Before you test this out make sure to change the mongoURI and secret key 
+ Before you test this out make sure to change the mongoURI and secret in backend/config/keys.js file.
+ 
 
 
 
