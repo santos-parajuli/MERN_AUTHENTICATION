@@ -2,10 +2,7 @@ Hello!
 #OVERVIEW_OF_MERN_APP
 
 
-<img src="https://media.giphy.com/media/XXRdI4ktwXRuAJHyal/giphy.gif" width="400px" height="200px" />
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ne1bAozLfwc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<img src="https://media.giphy.com/media/XXRdI4ktwXRuAJHyal/giphy.gif" width="560" height="315" />
 
 In this project, I will attempt to show you how to create a basic MERN (MongoDB/Express/React/Node.js) Stack application. In order to run the project download it and open with any code editor(my preference is Visual Studio)
 Then run the below command in sequence.
@@ -29,3 +26,8 @@ Then run the below command in sequence.
   
 In REACT, I used MaterialUI for building components, Redux for state management and Axios to fetch data from our NODE server.
 
+
+I haven't used any validations in node since all basic validations are done in REACT (client side). Although node sends use 404 status with when logging with wrong email or password and it is rendered in textfields components.And since i have used redux in this project the code seems to be alot more complex but if you have knowledge of redux it's kind of simple and easy.
+
+I will also be deploying this project live on my website www.siwani.com.np so you can check it out there.
+HAPPY HACKING !!!
