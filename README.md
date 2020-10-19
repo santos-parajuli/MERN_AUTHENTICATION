@@ -1,6 +1,6 @@
 Hello!
 #OVERVIEW_OF_MERN_APP
-[Imgur](https://i.imgur.com/dkbrU9T.gifv)
+![Alt Text](https://i.imgur.com/dkbrU9T.gifv)
 
 In this project, I will attempt to show you how to create a basic MERN (MongoDB/Express/React/Node.js) Stack application. In order to run the project download it and open with any code editor(my preference is Visual Studio)
 Then run the below command in sequence.
