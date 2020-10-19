@@ -6,7 +6,7 @@ Then run the below command in sequence.
 1. npm install                 // Install dependencies for REACT
 2. cd backend && npm install   // Go to backend folder and install dependencies
 3. npm start                   // run REACT 
-3. npm run server              // run NODE 
+3. cd backend && npm start     // go to backend folder and run NODE 
 
  Before you test this out make sure to change the mongoURI and secret in backend/config/keys.js file.
  
