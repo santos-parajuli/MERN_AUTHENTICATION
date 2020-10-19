@@ -10,6 +10,15 @@ Then run the below command in sequence.
 
  Before you test this out make sure to change the mongoURI and secret in backend/config/keys.js file.
  
-
-
+ In this project,
+ 
+ For Node i have used dependencies :
+ 1. bcrypy                     // for password hashing
+ 2. cors                       // to allow communicartion betweeen client and server
+ 3. jsonwebtokens              // for session management
+ 4. mongoose                   // to connect to MongoDB
+ 5. nodemon                    // helps to automatically restart node after changing some program and saving it
+ 6. passport and passport-jwt  // for authentication
+  
+In REACT, I used MaterialUI for building components, Redux for state management and Axios to fetch data from our NODE server.
 
