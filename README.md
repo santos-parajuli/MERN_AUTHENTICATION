@@ -2,7 +2,7 @@ Hello!
 #OVERVIEW_OF_MERN_APP
 
 
-<img src="https://media.giphy.com/media/KCh4JSHB2r79zmaSys/giphy.gif" width="400px" height="200px" />
+<img src="https://media.giphy.com/media/XXRdI4ktwXRuAJHyal/giphy.gif" width="400px" height="200px" />
 
 
 In this project, I will attempt to show you how to create a basic MERN (MongoDB/Express/React/Node.js) Stack application. In order to run the project download it and open with any code editor(my preference is Visual Studio)
