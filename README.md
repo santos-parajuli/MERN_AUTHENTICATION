@@ -24,7 +24,7 @@ Then run the below command in sequence.
  3. jsonwebtokens              // for session management
  4. mongoose                   // to connect to MongoDB
  5. nodemon                    // helps to automatically restart node after changing some program and saving it
- 6. passport passport-local passport-facebook passport-google-oauth20  // for authentication
+ 6. passport passport-jwt      // for authentication
   
 In REACT, I used MaterialUI for building components, Redux for state management and Axios to fetch data from our NODE server.
 
